@@ -3,7 +3,7 @@
 
 ---
 
-<p align="center"><img src="https://skillicons.dev/icons?i=discord,cpp,python,linux,blender,rust,git" alt="Technology icons"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=cpp,python,linux,blender,git" alt="Technology icons"/></p>
 
 ---
 
