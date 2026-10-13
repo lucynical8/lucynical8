@@ -1,3 +1,3 @@
-# nothing yet..
-# i like yellow
-# i hate beetroots
+nothing yet..\n
+i like yellow\n
+i hate beetroots\n
