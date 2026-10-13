@@ -1,5 +1,5 @@
 <h1 align="center">hello im yellow</h1>
-<h3 align="center">schizophrenic - building nothing with code</h3>
+<h3 align="center">building nothing with code</h3>
 
 ---
 
